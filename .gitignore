@@ -1,0 +1,90 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.pyc
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+__pycache__/
+dist/
+build/
+*.spec
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+*.sublime-workspace
+*.komodoproject
+.settings/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+*.cache
+
+# Output files
+*.csv
+*.xlsx
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pyre-check
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# subdirectory containing the static files
+static/
