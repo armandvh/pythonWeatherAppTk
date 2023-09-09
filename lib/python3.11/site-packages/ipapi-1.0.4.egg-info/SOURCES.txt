@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+ipapi/__init__.py
+ipapi/__main__.py
+ipapi/exceptions.py
+ipapi/ipapi.py
+ipapi.egg-info/PKG-INFO
+ipapi.egg-info/SOURCES.txt
+ipapi.egg-info/dependency_links.txt
+ipapi.egg-info/requires.txt
+ipapi.egg-info/top_level.txt
