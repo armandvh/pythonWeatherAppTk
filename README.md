@@ -1,6 +1,6 @@
 # Weather App with Tkinter
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](weatherapp.png)
 
 This is a Python-based weather application that provides real-time weather information using Tkinter for the GUI.
 
