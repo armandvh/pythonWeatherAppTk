@@ -24,7 +24,6 @@ This is a Python-based weather application that provides real-time weather infor
 1. Clone the repository:
    ```
    git clone https://github.com/yourusername/PythonWeatherAppTk.git
-   
    ```
 
 2. Navigate to the project directory:
