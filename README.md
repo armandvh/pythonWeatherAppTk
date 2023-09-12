@@ -22,17 +22,19 @@ This is a Python-based weather application that provides real-time weather infor
 ### Installing
 
 1. Clone the repository:
-
-git clone https://github.com/yourusername/PythonWeatherAppTk.git
+   ```
+   git clone https://github.com/yourusername/PythonWeatherAppTk.git
+   
+   ```
 
 2. Navigate to the project directory:
-
-cd PythonWeatherAppTk
-
+   ```
+   cd PythonWeatherAppTk
+   ```
 3. Run the application:
-
-python main.py
-
+   ```
+   python main.py
+   ```
 ## Usage
 
 1. The app will automatically detect your location based on your IP address and display the weather information.
